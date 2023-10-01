@@ -118,16 +118,16 @@ class SkillFragment : Fragment() {
         )
 
         heading = arrayOf(
-            getString(R.string.text_cpp),
-            getString(R.string.text_c),
-            getString(R.string.text_py),
-            getString(R.string.text_html),
-            getString(R.string.text_css),
-            getString(R.string.text_js),
-            getString(R.string.text_sql),
-            getString(R.string.text_kt),
-            getString(R.string.text_vsc),
-            getString(R.string.text_android_studio)
+            getString(R.string.text_1),
+            getString(R.string.text_2),
+            getString(R.string.text_3),
+            getString(R.string.text_4),
+            getString(R.string.text_5),
+            getString(R.string.text_6),
+            getString(R.string.text_7),
+            getString(R.string.text_8),
+            getString(R.string.text_9),
+            getString(R.string.text_10)
         )
 
         getUserData()

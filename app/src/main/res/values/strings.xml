@@ -2,12 +2,12 @@
     <string name="app_name">My Portfolio</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Farhan Apri Kesuma</string>
-    <string name="nav_header_subtitle_2">121140179</string>
-    <string name="nav_header_subtitle">farhan.121140179@student.itera.ac.id</string>
+    <string name="nav_header_title">Chrisnico Alexander</string>
+    <string name="nav_header_subtitle_2">120140244</string>
+    <string name="nav_header_subtitle">chrisnico.120140244@student.itera.ac.id</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
-    <string name="action_search">Search for skill here...</string>
+    <string name="action_search">Search ...</string>
 
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
@@ -15,15 +15,15 @@
     <string name="menu_skill">Skills</string>
     <string name="menu_skill_detail">Skill Detail</string>
 
-    <string name="text_cpp">C++ Programming Language</string>
-    <string name="text_c">C Programming Language</string>
-    <string name="text_py">Python Programming Language</string>
-    <string name="text_html">HTML Hypertext Language</string>
-    <string name="text_css">CSS Stylesheet Language</string>
-    <string name="text_js">JavaScript Programming Language</string>
-    <string name="text_sql">MySQL Database Query</string>
-    <string name="text_kt">Kotlin Programming Language</string>
-    <string name="text_vsc">Visual Studio Code</string>
-    <string name="text_android_studio">Android Studio</string>
+    <string name="text_1">C++</string>
+    <string name="text_2">Golang</string>
+    <string name="text_3">Python</string>
+    <string name="text_4">Kotlin</string>
+    <string name="text_5">Javascript</string>
+    <string name="text_6">CSS</string>
+    <string name="text_7">MySql</string>
+    <string name="text_8">NoSql</string>
+    <string name="text_9">Nest JS</string>
+    <string name="text_10">GraphQL</string>
 
 </resources>
