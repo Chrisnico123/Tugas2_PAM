@@ -114,7 +114,6 @@ class SkillFragment : Fragment() {
             R.drawable.cpp_logo,
             R.drawable.cpp_logo,
             R.drawable.cpp_logo,
-            R.drawable.cpp_logo,
         )
 
         heading = arrayOf(

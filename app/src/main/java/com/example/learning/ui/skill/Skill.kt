@@ -4,10 +4,13 @@ import android.os.Parcel
 import android.os.Parcelable
 
 data class Skill(val titleImage: Int, var heading:String) : Parcelable{
-    constructor(parcel: Parcel): this(
-        parcel.readInt(),
-        parcel.readString()!!
-    )
+        constructor(parcel: Parcel): this(
+            parcel.readInt(),
+            parcel.readString()!!
+        )
+        {
+
+    }
 
 
     override fun writeToParcel(parcel: Parcel, flags: Int) {
