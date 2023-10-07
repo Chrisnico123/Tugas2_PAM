@@ -105,15 +105,15 @@ class SkillFragment : Fragment() {
 
         imageId = arrayOf(
             R.drawable.cpp_logo,
-            R.drawable.cpp_logo,
-            R.drawable.cpp_logo,
-            R.drawable.cpp_logo,
-            R.drawable.cpp_logo,
-            R.drawable.cpp_logo,
-            R.drawable.cpp_logo,
-            R.drawable.cpp_logo,
-            R.drawable.cpp_logo,
-            R.drawable.cpp_logo,
+            R.drawable.go_logo,
+            R.drawable.py_logo,
+            R.drawable.kotlin_logo,
+            R.drawable.js_logo,
+            R.drawable.css_logo,
+            R.drawable.sql_logo,
+            R.drawable.mongo_logo,
+            R.drawable.nest_logo,
+            R.drawable.graphql_logo,
         )
 
         heading = arrayOf(
